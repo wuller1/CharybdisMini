@@ -1,4 +1,4 @@
-# zmk-config-redox
+# zmk-hatsumini
 
 
 <img src="keymap-drawer/hatsu.svg" >
