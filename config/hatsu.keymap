@@ -168,7 +168,7 @@
 &kp TILDE  &kp EXCL           &kp AT   &kp POUND   &kp DLLR   &kp PRCNT         &kp CARET &kp AMPS    &kp STAR     &kp LPAR  &kp RPAR &none
 &none  &none           &none    &none    &none    &none         &none  &none     &none     &none  &none  &none
 &none  &none           &none    &none    &none    &none         &none  &none     &none     &none  &none  &none
-                       &none    &trans    &none    &none         &none  &none     &none     &none
+                       &none    &trans     &trans    &none         &none  &none     &none     &none
                       
             >;
         };
