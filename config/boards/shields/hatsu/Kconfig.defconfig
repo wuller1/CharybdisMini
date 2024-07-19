@@ -1,7 +1,7 @@
 # Copyright (c) 2022 Duccio Breschi
 # SPDX-License-Identifier: MIT
 
-if SHIELD_HATSU_LEFT
+if SHIELD_HATSU_RIGHT
 
 config ZMK_KEYBOARD_NAME
     default "HATSU"

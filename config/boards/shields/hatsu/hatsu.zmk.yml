@@ -4,12 +4,9 @@ name: hatsu
 type: shield
 url: https://github.com/jimmerricks/swoop
 requires: [pro_micro]
-exposes: [i2c_oled]
 features:
   - keys
-  - display
-  - encoders
-  - underglow
+  - pointer
 siblings:
   - hatsu_left
   - hatsu_right
