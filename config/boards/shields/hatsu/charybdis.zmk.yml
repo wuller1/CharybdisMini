@@ -1,6 +1,6 @@
 file_format: "1"
-id: hatsu
-name: hatsu
+id: charybdis
+name: charybdis
 type: shield
 url: https://github.com/jimmerricks/swoop
 requires: [pro_micro]
@@ -8,5 +8,5 @@ features:
   - keys
   - pointer
 siblings:
-  - hatsu_left
-  - hatsu_right
+  - charybdis_left
+  - charybdis_right

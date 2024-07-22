@@ -1,17 +1,17 @@
 # Copyright (c) 2022 Duccio Breschi
 # SPDX-License-Identifier: MIT
 
-if SHIELD_HATSU_RIGHT
+if SHIELD_CHARYBDIS_RIGHT
 
 config ZMK_KEYBOARD_NAME
-    default "HATSU"
+    default "CHARYBDIS"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
 endif
 
-if SHIELD_HATSU_LEFT || SHIELD_HATSU_RIGHT
+if SHIELD_CHARYBDIS_LEFT || SHIELD_CHARYBDIS_RIGHT
 
 config ZMK_SPLIT
     default y
