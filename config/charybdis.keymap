@@ -153,7 +153,7 @@
         hotkey_layer {
             label = "HOTKEY";
             bindings = <
-&none  &macro_email_q  &GUANJIANCI    &kp UP    &none    &none         &none  &none     &kp UP     &none  &none  &none
+  &macro_email_q  &GUANJIANCI &none   &kp UP    &none    &none         &none  &none     &kp UP     &none  &none  &none
 &none  &none           &kp LEFT  &kp DOWN  &kp RIGHT    &none         &none  &kp LEFT  &kp DOWN  &kp RIGHT  &none  &none
 &none  &none           &none          &none    &none    &none         &none  &none     &none     &none  &none  &none
                        &none          &none    &none    &none         &none  &none     &none     &none
