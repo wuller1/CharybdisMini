@@ -1,6 +1,6 @@
 file_format: "1"
 id: charybdis
-name: charybdis
+name: Charybdis
 type: shield
 url: https://github.com/jimmerricks/swoop
 requires: [pro_micro]
