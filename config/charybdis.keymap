@@ -66,10 +66,10 @@
         default_layer {
             label = "DEFAULT";
             bindings = <
-&kp TAB       &kp Q               &kp W  &kp E         &kp R        &kp T           &kp Y  &kp U        &kp I         &kp O    &kp P     &kp LEFT_BRACKET
-&kp CAPSLOCK  &mt A LEFT_CONTROL  &kp S  &kp D         &kp F        &kp G           &kp H  &kp J        &kp K         &kp L    &kp SEMI  &kp SQT
-&kp LSHFT     &kp Z               &kp X  &kp C         &kp V        &mt B LEFT_ALT  &kp N  &kp M        &kp COMMA     &kp DOT  &kp FSLH  &kp RSHFT
-                                         &kp LEFT_WIN  &lt 1 SPACE  &mo 2           &mo 2  &lt 1 SPACE  &kp LEFT_WIN
+&kp TAB       &kp Q               &kp W  &kp E         &kp R        &kp T           &kp Y           &kp U        &kp I         &kp O    &kp P                        &kp LEFT_BRACKET
+&kp CAPSLOCK  &mt A LEFT_CONTROL  &kp S  &kp D         &kp F        &kp G           &kp H           &kp J        &kp K         &kp L    &mt RIGHT_CONTROL SEMICOLON  &kp SQT
+&kp LSHFT     &kp Z               &kp X  &kp C         &kp V        &mt LEFT_ALT B  &mt LEFT_ALT N  &kp M        &kp COMMA     &kp DOT  &kp FSLH                     &kp RSHFT
+                                         &kp LEFT_WIN  &lt 1 SPACE  &mo 2           &mo 2           &lt 1 SPACE  &kp LEFT_WIN
             >;
         };
 
